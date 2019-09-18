@@ -1,9 +1,6 @@
 6666sdasdasdad9999
 zai jia yige
 dier
-laosan qing huihua
-<<<<<<< HEAD
-12345
-=======
+laosan qing hui
 fae 12
->>>>>>> fae
+
